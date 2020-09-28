@@ -1,1 +1,1 @@
-getgenv().disablescript = false
+getgenv().disablescript = true
